@@ -1,0 +1,4 @@
+interface:
+  display_name: "喜茶风海报"
+  short_description: "制作极简白底摄影与手绘互动海报，并用真实本地字体排版"
+  default_prompt: "使用 $heytea-style-poster 将我上传的单一主体图片制作成一张 3:4 极简治愈系白底创意海报。"
